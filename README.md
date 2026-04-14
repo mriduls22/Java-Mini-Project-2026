@@ -45,8 +45,7 @@ Break all the bricks using the ball without letting it fall below the paddle.
 
 ⚙️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/brick-breaker-java.git
-Open the project in any Java IDE (Eclipse / IntelliJ / NetBeans)
+Open code in VS Code
 
 Compile and run:
 Main.java
