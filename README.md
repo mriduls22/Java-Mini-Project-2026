@@ -39,6 +39,7 @@ BrickBreaker/
 ⬅️ Press LEFT ARROW to move paddle left
 ➡️ Press RIGHT ARROW to move paddle right
 ⏸️ Press P to Pause/Resume
+
 Objective:
 
 Break all the bricks using the ball without letting it fall below the paddle.
